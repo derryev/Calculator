@@ -70,7 +70,7 @@
                                                                 <color key="backgroundColor" systemColor="systemRedColor"/>
                                                                 <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <state key="normal" title="Button"/>
-                                                                <buttonConfiguration key="configuration" style="plain" title="%"/>
+                                                                <buttonConfiguration key="configuration" style="plain" title="÷"/>
                                                             </button>
                                                         </subviews>
                                                     </stackView>
